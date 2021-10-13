@@ -12,5 +12,5 @@ review the python code for transferability to similar projects
 Bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/eugenequansah/pdsnd_github.git
 
